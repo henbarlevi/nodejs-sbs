@@ -1,0 +1,11 @@
+nodeJs is a c++ program tha embedded
+the v8 js engine and added extra 
+features to it.
+nodejs and js engine in general
+execute the js code - convert the code
+to machine language (interpited)
+-------------------------------------
+1.install node
+2.check for succes install by print
+in the command prompt : node -v
+(no erros - secces installation)

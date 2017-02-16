@@ -1,0 +1,10 @@
+﻿DOM - 'Document object model' 
+the structure browsers use to store and manage web pages,
+browsers give the js engine the ablity to manipulate the DOM
+
+MEAN stack - its a good combination of thechnologies used to build a piece of software
+M- mongoDB E-express A-angular N- nodejs.
+its an optional combination and there are other thechonologies options
+
+*when using angular dont forget to link to the CDN so that the clients will
+download angular script from google and not from your server - helps preformance
